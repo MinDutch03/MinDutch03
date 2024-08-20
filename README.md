@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! My name is Duc Nguyen Minh!
+Here are a couple of things about me:
 
-<!--
-**MinDutch03/MinDutch03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently a student at Vietnamese German University, majoring in Computer Science
 
-Here are some ideas to get you started:
+✈️ Studying an exchange semester at Frankfurt University of Applied Sciences in 2023, fully-granted scholarship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Also learning cool things about AI and ML through AI Vietnam 🇻🇳
+
+💻 Working on my personal portfolio website right now ✨
+
+👯 Love to collaborate on projects/researches about AI, NLP, Langchain, LLM
+
+📫 You can find me through my [LinkedIn](https://www.linkedin.com/in/minhduc030303/) and get in touch @ nguyenminhduc890@gmail.com
