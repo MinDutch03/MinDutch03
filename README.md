@@ -9,11 +9,11 @@
 
 - 👯 I love to collaborate on projects/researches about AI, NLP, Langchain, LLM [Llama3-chatbot](https://github.com/MinDutch03/Llama3.1_chatbot)
 
-- 👨‍💻 All of my projects are available at [https://minhduc.streamlit.app/](https://minhduc.streamlit.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://minhduc.streamlit.app/)
 
 - 💬 Ask me about **AI, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **nguyenminhduc890@gmail.com**
+- 📫 How to reach me: **nguyenminhduc890@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
