@@ -9,7 +9,7 @@
 
 - 👯 I love to collaborate on projects/researches about AI, NLP, Langchain, LLM [Llama3-chatbot](https://github.com/MinDutch03/Llama3.1_chatbot)
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://minhduc.streamlit.app/)
+- 👨‍💻 My CV is available at [My portfolio](https://minhduc.streamlit.app/)
 
 - 💬 Ask me about **AI, Machine Learning, Deep Learning**
 
