@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently a student at **Vietnamese German University**
 
-- 🌱 I’m currently learning AI and ML at **AI VIETNAM**
+- 🌱 I previously learned AI and ML at **AI VIETNAM**, intake **AIO2023**.
 
 - ✈️ I studied an exchange semester in 2023 wit fully-granted scholarship at **Frankfurt University of Applied Sciences**
 
