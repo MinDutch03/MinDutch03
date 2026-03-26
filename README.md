@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Duc Nguyen Minh</h1>
 <h3 align="center">A passionate AI/ML/Software Engineer</h3>
 
+- 👨🏻‍💻 Currently I am working at 99Tech.
+
 - 🎓 I graduated from **Vietnamese German University**
 
 - 🌱 I previously learned AI and ML at **AI VIETNAM**, intake **AIO2023**.
