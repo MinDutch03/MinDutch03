@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc Nguyen Minh</h1>
-<h3 align="center">A passionate AI Engineer/ML Engineer</h3>
+<h3 align="center">A passionate AI/ML/Software Engineer</h3>
 
-- 🎓 I’m currently a student at **Vietnamese German University**
+- 🎓 I graduated from **Vietnamese German University**
 
 - 🌱 I previously learned AI and ML at **AI VIETNAM**, intake **AIO2023**.
 
