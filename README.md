@@ -15,7 +15,6 @@
 
 - 📫 How to reach me: **nguyenminhduc890@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/minhduc030303/)
 
-- 👨‍💻 My CV is available at [My portfolio](https://minhduc.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
