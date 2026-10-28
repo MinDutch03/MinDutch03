@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Currently I am working at 99Tech.
 
-- 🎓 I graduated from **Vietnamese German University**
+- 🎓 I graduated from **Frankfurt University of Applied Sciences** and **Vietnamese German University**
 
 - 🌱 I previously learned AI and ML at **AI VIETNAM**, intake **AIO2023**.
 
